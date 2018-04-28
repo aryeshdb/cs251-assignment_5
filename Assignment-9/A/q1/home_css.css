@@ -1,0 +1,127 @@
+#sidebar-wrapper
+{
+	position:		  fixed;
+	width:			  220px;
+	height:			  100%;
+	margin:			  left auto;
+	background-color: 47d1d1;
+}
+#name
+{
+	padding-left:30px;
+	padding-top: 20px;
+}
+#about
+{
+	padding-left:30px;
+	padding-top : 40px
+}
+#image
+{
+	padding-left: 30px;
+}
+
+
+#textalign
+{
+	text-align:right;
+	padding-right: 20px;
+}
+.content
+{
+	margin-left:	225px;
+	position:		fixed;
+	width:			1300px;
+	height:			100%;
+	background-color:fefefe;
+}
+h2
+{
+	text-decoration : underline;
+	
+}
+table 
+{
+    border: 1px solid black;
+	font-family: arial, sans-serif;
+    width: 100%;
+	background-color: #dddddd;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+
+
+.a 
+{
+	vertical-align:middle;
+	font-size:  20px;
+	text-align: center;
+}
+.sidebar-nav
+{
+	padding-left:30px;
+	list-style:none;
+}
+.list
+{
+	position:relative;
+	width:220px;
+	height:40px;
+	margin-left: -30px;
+	background-color:47d1d1;
+	text-align: center;
+	/*padding-left:25px;*/
+	padding-bottom:-10px;
+}	
+.list:hover
+{
+	background-color:004f4f;
+}
+a:link    
+{
+  text-decoration:  none;
+  color			 :  black;
+} 
+a:visited 
+{
+  text-decoration:  none;
+  color:			black;
+} 
+a:hover   
+{
+  background-color: white;
+  color: 			white;
+} 
+a:active  
+{
+  text-decoration:  underline;
+}
+.list:hover
+{
+	background-color:004f4f;
+}
+.ext_link:link    
+{
+  text-decoration:  none;
+  color			 :  blue;
+} 
+.ext_link:visited 
+{
+  text-decoration:  none;
+  color:			blue;
+} 
+.ext_link:hover   
+{
+  background-color: white;
+  color: 			green;
+} 
+.ext_link:active  
+{
+  text-decoration:  underline;
+  color:			red;
+}
