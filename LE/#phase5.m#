@@ -1,0 +1,6 @@
+#!/usr/bin/octave -qf
+
+a=round(12*rand);
+b=round(12*rand);
+
+save a b in phase5.txt

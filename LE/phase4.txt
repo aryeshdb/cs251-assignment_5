@@ -1,0 +1,13 @@
+"V1" "new_column"
+"mesha" 114
+"vrishabha" 72
+"mithuna" 134
+"karka" 160
+"simha" 114
+"kanya" 72
+"tula" 134
+"vrischika" 160
+"dhanu" 114
+"makar" 72
+"kumbha" 134
+"meena" 160

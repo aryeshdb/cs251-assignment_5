@@ -1,0 +1,15 @@
+digraph G
+{
+	rankdir = LR;
+
+	b [label = "Bash"];
+	g [label = "Grep/Sed/Awk"];
+	o [label = "Octave"];
+	r [label = "R"];
+	l [label = "Latex"];
+	d [label = "...", shape = none];
+	f [label = "FINAL", shape = box];
+
+	b -> g -> o -> r -> l -> d -> f;
+}
+
